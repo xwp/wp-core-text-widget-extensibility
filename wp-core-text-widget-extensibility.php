@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Core Text Widget Extensibility
  * Description: Workaround to allow the rich Text widget in WordPress 4.8.0 and 4.8.1 to be extended. This will be unnecessary as of WordPress 4.8.2.
- * Plugin URI: https://core.trac.wordpress.org/ticket/41536
+ * Plugin URI: https://core.trac.wordpress.org/ticket/41540
  * Author: Weston Ruter, XWP
  * Author URI: https://make.xwp.co/
  * Version: 0.1.0
